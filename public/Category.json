@@ -1,0 +1,205 @@
+[
+    {
+      "product_id": "L001",
+      "product_title": "Gaming Laptop Pro",
+      "product_img": "https://i.ibb.co.com/GvsvpNN/11-e6bdd951-248f-490f-b2ad-f0c952ffe208.webp",
+      "category": "Laptops",
+      "price": "Price:$ 65.45",
+      "description": "High-performance laptop for gamers.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Intel i9"},
+        {"spec_name": "RAM", "spec_value": "32GB"},
+        {"spec_name": "Storage", "spec_value": "1TB SSD"},
+        {"spec_name": "Graphics", "spec_value": "NVIDIA RTX 3080"}
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "other": [
+        {"label": "Color", "value": "Black"}
+      ]
+    },
+    {
+      "product_id": "L002",
+      "product_title": "Ultra Slim Laptop",
+      "product_img": "https://i.ibb.co.com/q0kxM3W/Ajc3ez-CTN4-FGz2v-F4-Lp-Qn9.jpg",
+      "category": "Laptops",
+      "price": "Price:$ 1200.45",
+      "description": "Lightweight laptop with excellent battery life.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Intel i5"},
+        {"spec_name": "RAM", "spec_value": "8GB"},
+        {"spec_name": "Storage", "spec_value": "512GB SSD"},
+        {"spec_name": "Screen Size", "spec_value": "13.3 inches"}
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "L003",
+      "product_title": "Budget Laptop",
+      "product_img": "https://i.ibb.co.com/NCGBBxB/Microsoft-surface-laptop-7-Black-7th-Edition-a-Copilot-PC-for-Business-Snapdragon-X-Plus-10-Core-Sna.webp",
+      "category": "Laptops",
+      "price": "Price:$ 600.425",
+      "description": "Affordable laptop for everyday use.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "AMD Ryzen 3"},
+        {"spec_name": "RAM", "spec_value": "4GB"},
+        {"spec_name": "Storage", "spec_value": "256GB SSD"},
+        {"spec_name": "Screen Size", "spec_value": "14 inches"}
+      ],
+      "availability": false,
+      "rating": 4.2
+    },
+    {
+      "product_id": "L004",
+      "product_title": "Business Laptop",
+      "product_img": "https://i.ibb.co.com/qk39tBs/711jg-F2-LHPL.jpg",
+      "category": "Laptops",
+      "price": "Price:$ 1400.00",
+      "description": "Laptop designed for business and productivity.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Intel i7"},
+        {"spec_name": "RAM", "spec_value": "16GB"},
+        {"spec_name": "Storage", "spec_value": "512GB SSD"},
+        {"spec_name": "Screen Size", "spec_value": "15.6 inches"}
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "M001",
+      "product_title": "MacBook Air 13\"",
+      "product_img": "https://i.ibb.co.com/0hWKC8y/dell-xps-14-vs-apple-macbook-pro-14-cnnu-cover.jpg",
+      "category": "MacBooks",
+      "price": "Price:$ 900.00",
+      "description": "Lightweight MacBook with M1 chip.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Apple M1"},
+        {"spec_name": "RAM", "spec_value": "8GB"},
+        {"spec_name": "Storage", "spec_value": "256GB SSD"}
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "M002",
+      "product_title": "MacBook Pro 14\"",
+      "product_img": "https://i.ibb.co.com/PrLTn1D/apple-macbook-air-15-inch-lid.jpg",
+      "category": "MacBooks",
+      "price": "Price:$ 1999.02",
+      "description": "Powerful MacBook with advanced performance.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Apple M1 Pro"},
+        {"spec_name": "RAM", "spec_value": "16GB"},
+        {"spec_name": "Storage", "spec_value": "512GB SSD"}
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "M003",
+      "product_title": "MacBook Pro 16\"",
+      "product_img": "https://i.ibb.co.com/KsjLdxW/How-long-do-Mac-Books-last.webp",
+      "category": "MacBooks",
+      "price": "Price:$ 2499.30",
+      "description": "High-performance MacBook for professionals.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Apple M1 Max"},
+        {"spec_name": "RAM", "spec_value": "32GB"},
+        {"spec_name": "Storage", "spec_value": "1TB SSD"}
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "M004",
+      "product_title": "MacBook Air 15\"",
+      "product_img": "https://i.ibb.co.com/0QpFHbW/macbookair-og-202402.jpg",
+      "category": "MacBooks",
+      "price":"Price:$ 700.",
+      "description": "Sleek MacBook with larger display.",
+      "specification": [
+        {"spec_name": "Processor", "spec_value": "Apple M2"},
+        {"spec_name": "RAM", "spec_value": "8GB"},
+        {"spec_name": "Storage", "spec_value": "256GB SSD"}
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P001",
+      "product_title": "Flagship Smartphone",
+      "product_img": "https://i.ibb.co.com/qRn0gH2/istockphoto-145132637-1024x1024.jpg",
+      "category": "Phones",
+      "price": "Price:$ 1100.00",
+      "description": "High-end smartphone with advanced camera features.",
+      "specification": [
+        {"spec_name": "Screen Size", "spec_value": "6.5 inches"},
+        {"spec_name": "Storage", "spec_value": "256GB"},
+        {"spec_name": "Battery", "spec_value": "4500mAh"}
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Mid-Range Smartphone",
+      "product_img": "https://i.ibb.co.com/Z6MrMzG/4zz-Fj9q-Xs9k-Q4y-EE3xi-RLE.jpg",
+      "category": "Phones",
+      "price":  "Price:$ 600.0",
+      "description": "Affordable smartphone with essential features.",
+      "specification": [
+        {"spec_name": "Screen Size", "spec_value": "6.1 inches"},
+        {"spec_name": "Storage", "spec_value": "128GB"},
+        {"spec_name": "Battery", "spec_value": "4000mAh"}
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Budget Smartphone",
+      "product_img": "https://i.ibb.co.com/S31Z12T/06o-ZZT0-Et-Pd7od-Ezxm8azce-41.webp",
+      "category": "Phones",
+      "price": "Price:$ 990.4",
+      "description": "Cost-effective smartphone for basic needs.",
+      "specification": [
+        {"spec_name": "Screen Size", "spec_value": "5.8 inches"},
+        {"spec_name": "Storage", "spec_value": "64GB"},
+        {"spec_name": "Battery", "spec_value": "3500mAh"}
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "P004",
+      "product_title": "5G Enabled Smartphone",
+      "product_img": "https://i.ibb.co.com/BGXYCkH/jbnsmwb4tksudazqpja0.webp",
+      "category": "Phones",
+      "price": "Price:$ 950.",
+      "description": "Future-ready smartphone with 5G support.",
+      "specification": [
+        {"spec_name": "Screen Size", "spec_value": "6.4 inches"},
+        {"spec_name": "Storage", "spec_value": "128GB"},
+        {"spec_name": "Battery", "spec_value": "4200mAh"}
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Compact Smartphone",
+      "product_img": "https://i.ibb.co.com/9rJ1mhS/old-nokia-phones-100625503-orig.webp",
+      "category": "Phones",
+      "price": "Price:$ 495.88",
+      "description": "Compact design with solid performance.",
+      "specification": [
+        {"spec_name": "Screen Size", "spec_value": "5.9 inches"},
+        {"spec_name": "Storage", "spec_value": "128GB"},
+        {"spec_name": "Battery", "spec_value": "4000mAh"}
+      ],
+      "availability": true,
+      "rating": 4.3
+    }
+  ]
+  
